@@ -14,7 +14,7 @@ const Banner = () => {
             {/*images*/}
             <div className='md:w-1/2'>Right
             <img src="" alt="" />girl_image
-            <div>
+            <div className="flex flex-col md:flex-row items-center justify-around -mt-14 gap-4">
               <div className="flex bg-white py-2 px-2 px-3 rounded-2xl items-center gap-3 shadow-md w-64">
                 <img src="" alt=""/>noodle pot 1
                 <div className="space-y-1">
@@ -27,17 +27,11 @@ const Banner = () => {
   
                   </div>
                   <p className="text-red">$18.00</p>
-                </div>
-                
-                
-                
-                
-                
-                
+                </div>  
               </div>
             </div>
             <div>
-              <div className="flex bg-white py-2 px-2 px-3 rounded-2xl items-center gap-3 shadow-md w-64">
+              <div className="sm:flex bg-white py-2 px-2 px-3 rounded-2xl items-center gap-3 shadow-md w-64">
                 <img src="" alt=""/>noodle pot 1
                 <div className="space-y-1">
                   <h5 className="font-medium mb-1">Spicy noodles</h5>

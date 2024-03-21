@@ -6,9 +6,8 @@ import "../App.css"
 const Main = () => {
   return (
     <div>
-    <Navbar/>
-    <Outlet/>
-    <footer>Footer</footer>
+      <Navbar/>
+      <Outlet/>
     </div>
   )
 }
