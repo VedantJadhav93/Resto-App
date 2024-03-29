@@ -9,7 +9,7 @@ const CategoryItems = [
 
 const Categories = () => {
     return (
-        <div className='section-container py-16'>
+        <div className='section-container py-16 bg-white'>
             <div className='text-center'>
                 <p className='subtitle'>Customer Favourites</p>
                 <h2 className='title'>Popular Categories</h2>

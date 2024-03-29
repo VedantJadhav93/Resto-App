@@ -4,6 +4,10 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import Cards from '../../Components/Cards';
 
+const simpleNextArrow = (props) => {
+  
+}
+
 const SpecialDishes = () => {
 
     const [recipes, setRecipes] = useState([]);
@@ -24,8 +28,8 @@ const SpecialDishes = () => {
         dots: true,
         infinite: false,
         speed: 500,
-        slidesToShow: 4,
-        slidesToScroll: 4,
+        slidesToShow: 3,
+        slidesToScroll: 3,
         initialSlide: 0,
         responsive: [
           {
@@ -56,7 +60,7 @@ const SpecialDishes = () => {
       };
 
   return (
-    <div className='section-container my-20 '>
+    <div className='section-container my-20 bg-white '>
         <div className='text-left'>
                 <p className='subtitle'>Special Dishes</p>
                 <h2 className='title md:w-[520px]'>Standout Dishes From Our Menu</h2>
