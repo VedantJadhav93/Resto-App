@@ -48,11 +48,11 @@ const Banner = () => {
                   />
                 
                 </div>
-                <p className="text-red">₹500</p>
+                <p className="text-red">₹540</p>
               </div>
             </div>
             <div className="bg-white px-3 py-2 rounded-2xl md:flex items-center gap-3 shadow-sm w-64 hidden">
-              <img src="muttonthali2.jpg" alt=""  className="rounded-2xl"/>
+              <img src="mutton-thali (1).jpg" alt=""  className="rounded-2xl"/>
               <div className="space-y-1">
                 <h5>Spl. Mutton Thali</h5>
                 <div className="rating rating-sm">

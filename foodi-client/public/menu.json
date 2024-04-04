@@ -18,8 +18,8 @@
     {
         "_id": "642c155b2c4774f05c36ee7c",
         "name": "Murgh Musallam",
-        "recipe": "Roasted chicken with gravy of chicken kheema",
-        "image": "/img1.png",
+        "recipe": "Nawabi Tandoori with gravy of chicken kheema",
+        "image": "/murgh-musallam.jpg",
         "category": "popular",
         "price": 850
     },
@@ -33,35 +33,35 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee7a",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "name": "Paneer Musallam",
+        "recipe": "Stuffed cheese in fried paneer pieces with gravy of chopped paneer",
+        "image": "/paneer-musallam.jpg",
         "category": "popular",
-        "price": 14.5
+        "price": 320
     },
     {
         "_id": "642c155b2c4774f05c36ee74",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "name": "Chicken Mughlai",
+        "recipe": "gravy dish of 5-6 chicken pieces with mixture of eggs",
+        "image": "/chicken-mughlai.jpg",
         "category": "popular",
-        "price": 14.5
+        "price": 280
     },
     {
         "_id": "642c155b2c4774f05c36ee712",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "name": "Chicken Malvani",
+        "recipe": "Chicken Fry with Curry",
+        "image": "/chicken-malvani.jpg",
         "category": "popular",
-        "price": 14.5
+        "price": 560
     },
     {
         "_id": "642c155b2c4774f05c36ee7x",
-        "name": "Roast Duck Breast",
+        "name": "Jatra Mutton",
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "image": "/jatra-mutton.jpg",
         "category": "popular",
-        "price": 14.5
+        "price": 720
     },
     {
         "_id": "642c155b2c4774f05c36ee8c",
@@ -177,11 +177,11 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee7f",
-        "name": "Roasted Pork Belly",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "name": "Butter Chicken",
+        "recipe": "Gravy dish of Nawabi Tandoori pieces with mixture of butter",
+        "image": "/butter-chicken.jpg",
         "category": "popular",
-        "price": 14.5
+        "price": 680
     },
     {
         "_id": "642c155b2c4774f05c36eea8",
@@ -289,11 +289,11 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee7e",
-        "name": "Fish Parmentier",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "name": "Veg Maratha",
+        "recipe": "Gravy dish of mixed veggies balls and mixture gravy of mix veg",
+        "image": "/veg-maratha.jpg",
         "category": "popular",
-        "price": 14.5
+        "price": 260
     },
     {
         "_id": "642c155b2c4774f05c36ee8b",
